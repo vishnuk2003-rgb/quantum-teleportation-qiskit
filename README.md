@@ -3,7 +3,7 @@
 This repository contains the simulation of the quantum teleportation protocol implemented using Qiskit.
 
 ## Files
-- quantum_teleportation_before_measurement.ipynb
+- quantum_teleportation.ipynb
 
 ## Features
 - Bell state generation
